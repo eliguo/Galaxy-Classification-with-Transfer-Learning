@@ -8,7 +8,7 @@ Galaxies have always been an enigmatic and broad concept for our understanding. 
 
 The data has the following subfolders:
 
-"""
+```
 Galaxy10 dataset (17736 images)
 ├── Class 0 (1081 images): Disturbed Galaxies
 ├── Class 1 (1853 images): Merging Galaxies
@@ -20,5 +20,5 @@ Galaxy10 dataset (17736 images)
 ├── Class 7 (2628 images): Unbarred Loose Spiral Galaxies
 ├── Class 8 (1423 images): Edge-on Galaxies without Bulge
 └── Class 9 (1873 images): Edge-on Galaxies with Bulge
-"""
+```
 
