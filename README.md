@@ -21,4 +21,3 @@ Galaxy10 dataset (17736 images)
 ├── Class 8 (1423 images): Edge-on Galaxies without Bulge
 └── Class 9 (1873 images): Edge-on Galaxies with Bulge
 ```
-
